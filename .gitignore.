@@ -1,0 +1,6 @@
+# ignore everything by default
+*
+# but keep these files
+!.gitignore
+!algs_OR.py
+!model_OR.py
